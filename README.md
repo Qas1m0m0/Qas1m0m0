@@ -9,7 +9,7 @@
 
 - 🤝 I’m open to **collaborate on projects!**
 
-- 💼 I am actively **looking for a full stack, software engineering or back end role.**
+- 💼 I am actively **looking for a full stack, software engineering or front end role.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
